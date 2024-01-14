@@ -22,7 +22,7 @@ body {
 h2 {
     text-align: center;
     font-size: 1.5em;
-    color: #b7ed74;
+    color: #e8c94d;
     margin: 15px 0;
 }
 .btn-group {
@@ -42,7 +42,7 @@ button {
     outline: none;
     cursor: pointer;
     box-shadow: 0 2px 4px gray;
-    border: 2px solid #b7ed74;
+    border: 2px solid #e8c94d;
     font-size: 1.2em;
 }
 button:nth-child(1) {
